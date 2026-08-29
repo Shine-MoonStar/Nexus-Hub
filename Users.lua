@@ -1,5 +1,0 @@
-return {
-  [""] = true,
-  [""] = true,
-  [""] = true,
-}
